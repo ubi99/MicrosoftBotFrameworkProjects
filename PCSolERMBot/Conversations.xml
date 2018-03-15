@@ -1,0 +1,2851 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Conversations>
+  <Message>
+    <TimeStamp>3/10/2018 1:03:56 PM</TimeStamp>
+    <ConversationId>41ugArKKmz73BR4lZNLhaM</ConversationId>
+    <From>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>hi</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/10/2018 1:03:59 PM</TimeStamp>
+    <ConversationId>41ugArKKmz73BR4lZNLhaM</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+      Hey There. I'm PSPL dude. How may I assist you today?
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/10/2018 1:16:03 PM</TimeStamp>
+    <ConversationId>J3YhDSVeErSL0TZymG5BJW</ConversationId>
+    <From>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>hi</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/10/2018 1:16:05 PM</TimeStamp>
+    <ConversationId>J3YhDSVeErSL0TZymG5BJW</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+      Hey There. I'm PSPL dude. How may I assist you today?
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/10/2018 1:18:26 PM</TimeStamp>
+    <ConversationId>CWxicsbhokGJhusYw9bADO</ConversationId>
+    <From>
+      <ID>e6754</ID>
+      <Name>yawar aubaid</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>hi</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/10/2018 1:18:28 PM</TimeStamp>
+    <ConversationId>CWxicsbhokGJhusYw9bADO</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>yawar aubaid</Name>
+    </To>
+    <Text>
+      Hey There. I'm PSPL dude. How may I assist you today?
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/11/2018 7:51:13 AM</TimeStamp>
+    <ConversationId>BJNBXqQT85VFgV4bSy5VB1</ConversationId>
+    <From>
+      <ID>e6755</ID>
+      <Name>Sachchida Nand Jha</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>who are you</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/11/2018 7:51:17 AM</TimeStamp>
+    <ConversationId>BJNBXqQT85VFgV4bSy5VB1</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6755</ID>
+      <Name>Sachchida Nand Jha</Name>
+    </To>
+    <Text>Nice that you asked. I'm great.</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/11/2018 7:51:52 AM</TimeStamp>
+    <ConversationId>BJNBXqQT85VFgV4bSy5VB1</ConversationId>
+    <From>
+      <ID>e6755</ID>
+      <Name>Sachchida Nand Jha</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>who are you</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/11/2018 7:51:54 AM</TimeStamp>
+    <ConversationId>BJNBXqQT85VFgV4bSy5VB1</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6755</ID>
+      <Name>Sachchida Nand Jha</Name>
+    </To>
+    <Text>
+      Hello Sachchida Nand Jha. I'm doing good. Thanks for asking.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 4:08:46 AM</TimeStamp>
+    <ConversationId>2vvMdOmemTn1PH4tjAlQfp</ConversationId>
+    <From>
+      <ID>E4571</ID>
+      <Name>Jitender Kumar</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>hi</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 4:08:49 AM</TimeStamp>
+    <ConversationId>2vvMdOmemTn1PH4tjAlQfp</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E4571</ID>
+      <Name>Jitender Kumar</Name>
+    </To>
+    <Text>
+      Hey There. I'm PSPL dude. How may I assist you today?
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 6:27:57 AM</TimeStamp>
+    <ConversationId>KNrkwuolLCUKDFBgYmQ0eV</ConversationId>
+    <From>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>hi</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>12-03-2018 06:27:59</TimeStamp>
+    <ConversationId>KNrkwuolLCUKDFBgYmQ0eV</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>
+      Hey There. I'm PSPL dude. How may I assist you today?
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 6:28:21 AM</TimeStamp>
+    <ConversationId>KNrkwuolLCUKDFBgYmQ0eV</ConversationId>
+    <From>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>12-03-2018 06:28:25</TimeStamp>
+    <ConversationId>KNrkwuolLCUKDFBgYmQ0eV</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>
+      Something went wrong while I was retrieving your attendance details. Please try again later.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 6:28:27 AM</TimeStamp>
+    <ConversationId>KNrkwuolLCUKDFBgYmQ0eV</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>Sorry, my bot code is having an issue.</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 6:28:37 AM</TimeStamp>
+    <ConversationId>KNrkwuolLCUKDFBgYmQ0eV</ConversationId>
+    <From>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>12-03-2018 06:28:38</TimeStamp>
+    <ConversationId>KNrkwuolLCUKDFBgYmQ0eV</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>
+      Something went wrong while I was retrieving your attendance details. Please try again later.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 6:28:39 AM</TimeStamp>
+    <ConversationId>KNrkwuolLCUKDFBgYmQ0eV</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>Sorry, my bot code is having an issue.</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 6:29:04 AM</TimeStamp>
+    <ConversationId>KNrkwuolLCUKDFBgYmQ0eV</ConversationId>
+    <From>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>12-03-2018 06:29:06</TimeStamp>
+    <ConversationId>KNrkwuolLCUKDFBgYmQ0eV</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>
+      Something went wrong while I was retrieving your attendance details. Please try again later.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 6:29:07 AM</TimeStamp>
+    <ConversationId>KNrkwuolLCUKDFBgYmQ0eV</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>Sorry, my bot code is having an issue.</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 8:05:01 AM</TimeStamp>
+    <ConversationId>20qGbM7i9nfCVjnlSkC1WU</ConversationId>
+    <From>
+      <ID>e5393</ID>
+      <Name>Mangat Kumar</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 8:05:04 AM</TimeStamp>
+    <ConversationId>20qGbM7i9nfCVjnlSkC1WU</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 8:05:04 AM</TimeStamp>
+    <ConversationId>20qGbM7i9nfCVjnlSkC1WU</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>
+      Fill the attendance for those dates and ask your manager to approve them.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 8:05:05 AM</TimeStamp>
+    <ConversationId>20qGbM7i9nfCVjnlSkC1WU</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 8:05:05 AM</TimeStamp>
+    <ConversationId>20qGbM7i9nfCVjnlSkC1WU</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>
+      In case of unvalidated entries contact your manager and ask him/her to approve the attendance.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 8:07:44 AM</TimeStamp>
+    <ConversationId>AlhcelF2eEOBlyvwBsH3wr</ConversationId>
+    <From>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 8:07:46 AM</TimeStamp>
+    <ConversationId>AlhcelF2eEOBlyvwBsH3wr</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 8:07:47 AM</TimeStamp>
+    <ConversationId>AlhcelF2eEOBlyvwBsH3wr</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>
+      Fill the attendance for those dates and ask your manager to approve them.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 8:07:48 AM</TimeStamp>
+    <ConversationId>AlhcelF2eEOBlyvwBsH3wr</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 8:07:48 AM</TimeStamp>
+    <ConversationId>AlhcelF2eEOBlyvwBsH3wr</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>
+      In case of unvalidated entries contact your manager and ask him/her to approve the attendance.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 9:31:02 AM</TimeStamp>
+    <ConversationId>FYhC488H9sX5m9mBvUDWz8</ConversationId>
+    <From>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>hi</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 9:31:05 AM</TimeStamp>
+    <ConversationId>FYhC488H9sX5m9mBvUDWz8</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+      Hey There. I'm PSPL dude. How may I assist you today?
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 9:58:49 AM</TimeStamp>
+    <ConversationId>J6UUQgEFmgD8LvGWsRz59a</ConversationId>
+    <From>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>Show me my attendance for this month</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>12-03-2018 09:58:52</TimeStamp>
+    <ConversationId>J6UUQgEFmgD8LvGWsRz59a</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>
+      Something went wrong while I was retrieving your attendance details. Please try again later.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 9:58:53 AM</TimeStamp>
+    <ConversationId>J6UUQgEFmgD8LvGWsRz59a</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>Sorry, my bot code is having an issue.</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 9:59:03 AM</TimeStamp>
+    <ConversationId>J6UUQgEFmgD8LvGWsRz59a</ConversationId>
+    <From>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>12-03-2018 09:59:04</TimeStamp>
+    <ConversationId>J6UUQgEFmgD8LvGWsRz59a</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>
+      Something went wrong while I was retrieving your attendance details. Please try again later.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 9:59:05 AM</TimeStamp>
+    <ConversationId>J6UUQgEFmgD8LvGWsRz59a</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>Sorry, my bot code is having an issue.</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 9:59:20 AM</TimeStamp>
+    <ConversationId>J6UUQgEFmgD8LvGWsRz59a</ConversationId>
+    <From>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>deductions</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>12-03-2018 09:59:21</TimeStamp>
+    <ConversationId>J6UUQgEFmgD8LvGWsRz59a</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 9:59:27 AM</TimeStamp>
+    <ConversationId>J6UUQgEFmgD8LvGWsRz59a</ConversationId>
+    <From>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>atttendance</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>12-03-2018 09:59:28</TimeStamp>
+    <ConversationId>J6UUQgEFmgD8LvGWsRz59a</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>
+      I'm sorry. I didn't understand that. Ask me anything realated to your Daily Office Attendance, Salary, Leaves, etc.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 9:59:34 AM</TimeStamp>
+    <ConversationId>J6UUQgEFmgD8LvGWsRz59a</ConversationId>
+    <From>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>12-03-2018 09:59:35</TimeStamp>
+    <ConversationId>J6UUQgEFmgD8LvGWsRz59a</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>
+      Something went wrong while I was retrieving your attendance details. Please try again later.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 9:59:36 AM</TimeStamp>
+    <ConversationId>J6UUQgEFmgD8LvGWsRz59a</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E5393</ID>
+      <Name>Mangat Kumar</Name>
+    </To>
+    <Text>Sorry, my bot code is having an issue.</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:15:40 AM</TimeStamp>
+    <ConversationId>50atZSWe4N3HneIleJotjO</ConversationId>
+    <From>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>What is my leave balance?</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:15:42 AM</TimeStamp>
+    <ConversationId>50atZSWe4N3HneIleJotjO</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:15:43 AM</TimeStamp>
+    <ConversationId>50atZSWe4N3HneIleJotjO</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+      Please note that the leave details get updated 5th of every month.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:15:43 AM</TimeStamp>
+    <ConversationId>50atZSWe4N3HneIleJotjO</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>How may I be of further assistance?</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:30:34 AM</TimeStamp>
+    <ConversationId>BLKh3UjqIt41GKnqMiqGMq</ConversationId>
+    <From>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>hi</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:30:36 AM</TimeStamp>
+    <ConversationId>BLKh3UjqIt41GKnqMiqGMq</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </To>
+    <Text>
+      Hey There. I'm PSPL dude. How may I assist you today?
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:32:10 AM</TimeStamp>
+    <ConversationId>BLKh3UjqIt41GKnqMiqGMq</ConversationId>
+    <From>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>my attendance</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:32:12 AM</TimeStamp>
+    <ConversationId>BLKh3UjqIt41GKnqMiqGMq</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:32:13 AM</TimeStamp>
+    <ConversationId>BLKh3UjqIt41GKnqMiqGMq</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </To>
+    <Text>
+      Fill the attendance for those dates and ask your manager to approve them.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:32:14 AM</TimeStamp>
+    <ConversationId>BLKh3UjqIt41GKnqMiqGMq</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:32:14 AM</TimeStamp>
+    <ConversationId>BLKh3UjqIt41GKnqMiqGMq</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </To>
+    <Text>
+      In case of unvalidated entries contact your manager and ask him/her to approve the attendance.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:32:52 AM</TimeStamp>
+    <ConversationId>BLKh3UjqIt41GKnqMiqGMq</ConversationId>
+    <From>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>salary deducted</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:32:54 AM</TimeStamp>
+    <ConversationId>BLKh3UjqIt41GKnqMiqGMq</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </To>
+    <Text>
+      As I can see your salary was approved for whole 28 Days last month. In case you received salary with a few days' decuction, the rest amount will be credited in next Payment Cycle.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:32:55 AM</TimeStamp>
+    <ConversationId>BLKh3UjqIt41GKnqMiqGMq</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:33:12 AM</TimeStamp>
+    <ConversationId>BLKh3UjqIt41GKnqMiqGMq</ConversationId>
+    <From>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>Yes</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:33:13 AM</TimeStamp>
+    <ConversationId>BLKh3UjqIt41GKnqMiqGMq</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:42:19 AM</TimeStamp>
+    <ConversationId>3wKyWDT8RHEKF67TwybDwD</ConversationId>
+    <From>
+      <ID>E4946</ID>
+      <Name>Giriraj Singh Bhamu</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:42:21 AM</TimeStamp>
+    <ConversationId>3wKyWDT8RHEKF67TwybDwD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E4946</ID>
+      <Name>Giriraj Singh Bhamu</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:42:22 AM</TimeStamp>
+    <ConversationId>3wKyWDT8RHEKF67TwybDwD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E4946</ID>
+      <Name>Giriraj Singh Bhamu</Name>
+    </To>
+    <Text>
+      Fill the attendance for those dates and ask your manager to approve them.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:42:23 AM</TimeStamp>
+    <ConversationId>3wKyWDT8RHEKF67TwybDwD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E4946</ID>
+      <Name>Giriraj Singh Bhamu</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/12/2018 10:42:23 AM</TimeStamp>
+    <ConversationId>3wKyWDT8RHEKF67TwybDwD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E4946</ID>
+      <Name>Giriraj Singh Bhamu</Name>
+    </To>
+    <Text>
+      In case of unvalidated entries contact your manager and ask him/her to approve the attendance.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 5:44:05 AM</TimeStamp>
+    <ConversationId>3BGfpYNDfSPCERblRlZJdS</ConversationId>
+    <From>
+      <ID>e5597</ID>
+      <Name>Himanshu Sharma</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>my name</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 5:44:08 AM</TimeStamp>
+    <ConversationId>3BGfpYNDfSPCERblRlZJdS</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5597</ID>
+      <Name>Himanshu Sharma</Name>
+    </To>
+    <Text>
+      I'm sorry. I didn't understand that. Ask me anything realated to your Daily Office Attendance, Salary, Leaves, etc.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 5:44:24 AM</TimeStamp>
+    <ConversationId>3BGfpYNDfSPCERblRlZJdS</ConversationId>
+    <From>
+      <ID>e5597</ID>
+      <Name>Himanshu Sharma</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>my salary</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 5:44:30 AM</TimeStamp>
+    <ConversationId>3BGfpYNDfSPCERblRlZJdS</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5597</ID>
+      <Name>Himanshu Sharma</Name>
+    </To>
+    <Text>
+      As I can see your salary was approved for whole 28 Days last month. In case you received salary with a few days' decuction, the rest amount will be credited in next Payment Cycle.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 5:44:31 AM</TimeStamp>
+    <ConversationId>3BGfpYNDfSPCERblRlZJdS</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5597</ID>
+      <Name>Himanshu Sharma</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 5:44:36 AM</TimeStamp>
+    <ConversationId>3BGfpYNDfSPCERblRlZJdS</ConversationId>
+    <From>
+      <ID>e5597</ID>
+      <Name>Himanshu Sharma</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>Yes</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 5:44:37 AM</TimeStamp>
+    <ConversationId>3BGfpYNDfSPCERblRlZJdS</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5597</ID>
+      <Name>Himanshu Sharma</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 6:39:57 AM</TimeStamp>
+    <ConversationId>87UaZYZo5EpIFlFzPTbyHx</ConversationId>
+    <From>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance of 24 feb 2018</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 6:40:02 AM</TimeStamp>
+    <ConversationId>87UaZYZo5EpIFlFzPTbyHx</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 6:40:03 AM</TimeStamp>
+    <ConversationId>87UaZYZo5EpIFlFzPTbyHx</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </To>
+    <Text>
+      In case of unvalidated entries contact your manager and ask him/her to approve the attendance.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 7:35:04 AM</TimeStamp>
+    <ConversationId>XopkDCahRu1ewoQ9m5GV3</ConversationId>
+    <From>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>hi</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 7:35:06 AM</TimeStamp>
+    <ConversationId>XopkDCahRu1ewoQ9m5GV3</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+      Hey There. I'm PSPL dude. How may I assist you today?
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 7:35:12 AM</TimeStamp>
+    <ConversationId>XopkDCahRu1ewoQ9m5GV3</ConversationId>
+    <From>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance for 28th feb</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 7:35:18 AM</TimeStamp>
+    <ConversationId>XopkDCahRu1ewoQ9m5GV3</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 7:35:19 AM</TimeStamp>
+    <ConversationId>XopkDCahRu1ewoQ9m5GV3</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+      In case of unvalidated entries contact your manager and ask him/her to approve the attendance.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 7:35:37 AM</TimeStamp>
+    <ConversationId>XopkDCahRu1ewoQ9m5GV3</ConversationId>
+    <From>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance for 12 march</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 7:35:38 AM</TimeStamp>
+    <ConversationId>XopkDCahRu1ewoQ9m5GV3</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 7:35:39 AM</TimeStamp>
+    <ConversationId>XopkDCahRu1ewoQ9m5GV3</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+      In case of unvalidated entries contact your manager and ask him/her to approve the attendance.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 7:35:50 AM</TimeStamp>
+    <ConversationId>XopkDCahRu1ewoQ9m5GV3</ConversationId>
+    <From>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance for 11 march</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 7:35:52 AM</TimeStamp>
+    <ConversationId>XopkDCahRu1ewoQ9m5GV3</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 7:35:53 AM</TimeStamp>
+    <ConversationId>XopkDCahRu1ewoQ9m5GV3</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+      In case of unvalidated entries contact your manager and ask him/her to approve the attendance.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 8:42:16 AM</TimeStamp>
+    <ConversationId>47FoWMSg9uK2RPTA4r0aE</ConversationId>
+    <From>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>What is my leave balance?</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 8:42:18 AM</TimeStamp>
+    <ConversationId>47FoWMSg9uK2RPTA4r0aE</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 8:42:18 AM</TimeStamp>
+    <ConversationId>47FoWMSg9uK2RPTA4r0aE</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+      Please note that the leave details get updated 5th of every month.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 8:42:19 AM</TimeStamp>
+    <ConversationId>47FoWMSg9uK2RPTA4r0aE</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>How may I be of further assistance?</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 8:53:12 AM</TimeStamp>
+    <ConversationId>CLuC2gfEx1HIPjf5pCCPtD</ConversationId>
+    <From>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>What is my leave balance?</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 8:53:14 AM</TimeStamp>
+    <ConversationId>CLuC2gfEx1HIPjf5pCCPtD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 8:53:15 AM</TimeStamp>
+    <ConversationId>CLuC2gfEx1HIPjf5pCCPtD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+      Please note that the leave details get updated 5th of every month.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 8:53:15 AM</TimeStamp>
+    <ConversationId>CLuC2gfEx1HIPjf5pCCPtD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>How may I be of further assistance?</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 8:54:34 AM</TimeStamp>
+    <ConversationId>CLuC2gfEx1HIPjf5pCCPtD</ConversationId>
+    <From>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance for feb 28</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 8:54:36 AM</TimeStamp>
+    <ConversationId>CLuC2gfEx1HIPjf5pCCPtD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 8:54:37 AM</TimeStamp>
+    <ConversationId>CLuC2gfEx1HIPjf5pCCPtD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+      In case of unvalidated entries contact your manager and ask him/her to approve the attendance.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:09:13 AM</TimeStamp>
+    <ConversationId>5Gnz4CLK2EWD8re229VPHo</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>my salary deduction</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:09:15 AM</TimeStamp>
+    <ConversationId>5Gnz4CLK2EWD8re229VPHo</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:09:37 AM</TimeStamp>
+    <ConversationId>5Gnz4CLK2EWD8re229VPHo</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>salary</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:09:39 AM</TimeStamp>
+    <ConversationId>5Gnz4CLK2EWD8re229VPHo</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+      As I can see your salary was approved for whole 28 Days last month. In case you received salary with a few days' decuction, the rest amount will be credited in next Payment Cycle.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:09:43 AM</TimeStamp>
+    <ConversationId>5Gnz4CLK2EWD8re229VPHo</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:09:56 AM</TimeStamp>
+    <ConversationId>5Gnz4CLK2EWD8re229VPHo</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>Yes</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:09:57 AM</TimeStamp>
+    <ConversationId>5Gnz4CLK2EWD8re229VPHo</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:11:21 AM</TimeStamp>
+    <ConversationId>5Gnz4CLK2EWD8re229VPHo</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>my salary deduction</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:11:23 AM</TimeStamp>
+    <ConversationId>5Gnz4CLK2EWD8re229VPHo</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:47:22 AM</TimeStamp>
+    <ConversationId>KRC3VCMjZEf2PsyUlXWqoL</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>salary deduction</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:47:23 AM</TimeStamp>
+    <ConversationId>KRC3VCMjZEf2PsyUlXWqoL</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:54:01 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>my salary deduction</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:54:02 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:54:28 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>leave balance</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:54:30 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:54:31 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+      Please note that the leave details get updated 5th of every month.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:54:31 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>How may I be of further assistance?</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:55:07 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:55:09 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:55:10 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+      Fill the attendance for those dates and ask your manager to approve them.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:55:10 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:55:10 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+      In case of unvalidated entries contact your manager and ask him/her to approve the attendance.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:57:01 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance for 5 march</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:57:03 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:57:04 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+      In case of unvalidated entries contact your manager and ask him/her to approve the attendance.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:57:17 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance of 7 march</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:57:19 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 10:57:20 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+      In case of unvalidated entries contact your manager and ask him/her to approve the attendance.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:16:06 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>kuch bhi</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:16:08 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+      I'm sorry. I didn't understand that. Ask me anything realated to your Daily Office Attendance, Salary, Leaves, etc.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:16:21 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>etc</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:16:23 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+      I'm sorry. I didn't understand that. Ask me anything realated to your Daily Office Attendance, Salary, Leaves, etc.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:16:34 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>etc.</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:16:36 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+      I'm sorry. I didn't understand that. Ask me anything realated to your Daily Office Attendance, Salary, Leaves, etc.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:16:49 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>, etc.</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:16:50 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+      I'm sorry. I didn't understand that. Ask me anything realated to your Daily Office Attendance, Salary, Leaves, etc.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:17:06 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:17:07 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:17:08 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+      Fill the attendance for those dates and ask your manager to approve them.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:17:09 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:17:09 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+      In case of unvalidated entries contact your manager and ask him/her to approve the attendance.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:17:14 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>leaves</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:17:16 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:17:16 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+      Please note that the leave details get updated 5th of every month.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:17:17 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>How may I be of further assistance?</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:17:29 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>who is giriraj</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:17:32 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+      Mr. Giriraj Singh Bhamu is a Senior Solution Architect at PC Solutions Pvt. Ltd. He also works as a team lead for MIM and IOT related projects. I would say that I was also developed under his supervision. Find him on Linkedin using this link: https://in.linkedin.com/in/girirajbhamu
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:17:49 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>who is himanshu</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:17:50 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+      I'm sorry. I didn't understand that. Ask me anything realated to your Daily Office Attendance, Salary, Leaves, etc.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:18:42 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>kra not credited</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:18:44 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+      I'm sorry. I didn't understand that. Ask me anything realated to your Daily Office Attendance, Salary, Leaves, etc.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:18:55 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:18:57 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:18:58 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+      Fill the attendance for those dates and ask your manager to approve them.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:18:58 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:18:58 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+      In case of unvalidated entries contact your manager and ask him/her to approve the attendance.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:19:07 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>salary slip not found</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:19:09 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:19:52 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>where can i find salary slip</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:19:53 AM</TimeStamp>
+    <ConversationId>LZNq08HAxqEAcsW4MKQiD</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e5168</ID>
+      <Name>Naval Arick Barsola</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:41:07 AM</TimeStamp>
+    <ConversationId>KUIHGDS5VCTKdwxKjBbfYk</ConversationId>
+    <From>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:41:08 AM</TimeStamp>
+    <ConversationId>KUIHGDS5VCTKdwxKjBbfYk</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:41:09 AM</TimeStamp>
+    <ConversationId>KUIHGDS5VCTKdwxKjBbfYk</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </To>
+    <Text>
+      Fill the attendance for those dates and ask your manager to approve them.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:41:10 AM</TimeStamp>
+    <ConversationId>KUIHGDS5VCTKdwxKjBbfYk</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 11:41:10 AM</TimeStamp>
+    <ConversationId>KUIHGDS5VCTKdwxKjBbfYk</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E6753</ID>
+      <Name>Shubham Mittal</Name>
+    </To>
+    <Text>
+      In case of unvalidated entries contact your manager and ask him/her to approve the attendance.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 12:52:57 PM</TimeStamp>
+    <ConversationId>Eqf7mlV8eO36kPLfVLvDNu</ConversationId>
+    <From>
+      <ID>e6748</ID>
+      <Name>Deepak Singh</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>Deductions last month</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 12:52:59 PM</TimeStamp>
+    <ConversationId>Eqf7mlV8eO36kPLfVLvDNu</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6748</ID>
+      <Name>Deepak Singh</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 12:57:58 PM</TimeStamp>
+    <ConversationId>3eTcRRt9Or7JZDRdtOMIa</ConversationId>
+    <From>
+      <ID>E4946</ID>
+      <Name>Giriraj Singh Bhamu</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>Show me my attendance for this month</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 12:58:01 PM</TimeStamp>
+    <ConversationId>3eTcRRt9Or7JZDRdtOMIa</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E4946</ID>
+      <Name>Giriraj Singh Bhamu</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 12:58:02 PM</TimeStamp>
+    <ConversationId>3eTcRRt9Or7JZDRdtOMIa</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E4946</ID>
+      <Name>Giriraj Singh Bhamu</Name>
+    </To>
+    <Text>
+      Fill the attendance for those dates and ask your manager to approve them.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 12:58:02 PM</TimeStamp>
+    <ConversationId>3eTcRRt9Or7JZDRdtOMIa</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E4946</ID>
+      <Name>Giriraj Singh Bhamu</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 12:58:02 PM</TimeStamp>
+    <ConversationId>3eTcRRt9Or7JZDRdtOMIa</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>E4946</ID>
+      <Name>Giriraj Singh Bhamu</Name>
+    </To>
+    <Text>
+      In case of unvalidated entries contact your manager and ask him/her to approve the attendance.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>13-03-2018 18:43:03</TimeStamp>
+    <ConversationId>f49lg9e9feb</ConversationId>
+    <From>
+      <ID>default-user</ID>
+      <Name>User</Name>
+    </From>
+    <To>
+      <ID>m770c7i9lci</ID>
+      <Name>Bot</Name>
+    </To>
+    <Text>hi</Text>
+    <ServiceUrl>http://localhost:55818</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>13-03-2018 18:43:03</TimeStamp>
+    <ConversationId>f49lg9e9feb</ConversationId>
+    <From>
+      <ID>m770c7i9lci</ID>
+      <Name>Bot</Name>
+    </From>
+    <To>
+      <ID>default-user</ID>
+      <Name>User</Name>
+    </To>
+    <Text>
+      Exception: Type 'DemoHelpDeskBot.Dialogs.RootDialog+QnAMakerResult' in Assembly 'Bot Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable.
+    </Text>
+    <ServiceUrl>http://localhost:55818</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>13-03-2018 18:45:13</TimeStamp>
+    <ConversationId>kn9kjd3h0hdd</ConversationId>
+    <From>
+      <ID>default-user</ID>
+      <Name>User</Name>
+    </From>
+    <To>
+      <ID>m770c7i9lci</ID>
+      <Name>Bot</Name>
+    </To>
+    <Text>hi</Text>
+    <ServiceUrl>http://localhost:55818</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 6:45:15 PM</TimeStamp>
+    <ConversationId>kn9kjd3h0hdd</ConversationId>
+    <From>
+      <ID>m770c7i9lci</ID>
+      <Name>Bot</Name>
+    </From>
+    <To>
+      <ID>default-user</ID>
+      <Name>User</Name>
+    </To>
+    <Text>
+      Hey There. I'm PSPL dude. How may I be of your assistance today?
+    </Text>
+    <ServiceUrl>http://localhost:55818</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 1:19:53 PM</TimeStamp>
+    <ConversationId>32smPO1tJRsI6rEXiMIeJT</ConversationId>
+    <From>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>hi</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 1:19:55 PM</TimeStamp>
+    <ConversationId>32smPO1tJRsI6rEXiMIeJT</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+      Good Afternoon. I'm PSPL dude. How may I help you today?
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 1:20:15 PM</TimeStamp>
+    <ConversationId>32smPO1tJRsI6rEXiMIeJT</ConversationId>
+    <From>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>attendance</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 1:20:16 PM</TimeStamp>
+    <ConversationId>32smPO1tJRsI6rEXiMIeJT</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 1:20:17 PM</TimeStamp>
+    <ConversationId>32smPO1tJRsI6rEXiMIeJT</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+      Fill the attendance for those dates and ask your manager to approve them.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 1:20:18 PM</TimeStamp>
+    <ConversationId>32smPO1tJRsI6rEXiMIeJT</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 1:20:18 PM</TimeStamp>
+    <ConversationId>32smPO1tJRsI6rEXiMIeJT</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+      In case of unvalidated entries contact your manager and ask him/her to approve the attendance.
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 1:20:27 PM</TimeStamp>
+    <ConversationId>32smPO1tJRsI6rEXiMIeJT</ConversationId>
+    <From>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>who is giriraj</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 1:20:31 PM</TimeStamp>
+    <ConversationId>32smPO1tJRsI6rEXiMIeJT</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+      Mr. Giriraj Singh Bhamu is a Senior Solution Architect at PC Solutions Pvt. Ltd. He also works as a team lead for MIM and IOT related projects. I would say that I was also developed under his supervision. Find him on Linkedin using this link: https://in.linkedin.com/in/girirajbhamu
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 1:20:33 PM</TimeStamp>
+    <ConversationId>32smPO1tJRsI6rEXiMIeJT</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>Sorry, my bot code is having an issue.</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 1:20:42 PM</TimeStamp>
+    <ConversationId>32smPO1tJRsI6rEXiMIeJT</ConversationId>
+    <From>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </From>
+    <To>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </To>
+    <Text>hi</Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>3/13/2018 1:20:44 PM</TimeStamp>
+    <ConversationId>32smPO1tJRsI6rEXiMIeJT</ConversationId>
+    <From>
+      <ID>helpdeskBot_ubi@lFDAfWBH2NM</ID>
+      <Name>helpDesk</Name>
+    </From>
+    <To>
+      <ID>e6754</ID>
+      <Name>Yawar Aubaid Mir</Name>
+    </To>
+    <Text>
+      Good Afternoon. I'm PSPL dude. How may I help you today?
+    </Text>
+    <ServiceUrl>https://directline.botframework.com/</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>14-03-2018 16:59:13</TimeStamp>
+    <ConversationId>jf7ae0cfllek</ConversationId>
+    <From>
+      <ID>default-user</ID>
+      <Name>User</Name>
+    </From>
+    <To>
+      <ID>m770c7i9lci</ID>
+      <Name>Bot</Name>
+    </To>
+    <Text>hi</Text>
+    <ServiceUrl>http://localhost:50421</ServiceUrl>
+  </Message>
+  <Message>
+    <TimeStamp>14-03-2018 16:59:16</TimeStamp>
+    <ConversationId>jf7ae0cfllek</ConversationId>
+    <From>
+      <ID>m770c7i9lci</ID>
+      <Name>Bot</Name>
+    </From>
+    <To>
+      <ID>default-user</ID>
+      <Name>User</Name>
+    </To>
+    <Text>Something went wrong please try again later...</Text>
+    <ServiceUrl>http://localhost:50421</ServiceUrl>
+  </Message>
+</Conversations>

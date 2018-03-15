@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entries>
+  <Entry>
+    <TicketId>TCK1018</TicketId>
+    <ConvReference>{
+  "activityId": "766cab81kmk5",
+  "user": {
+    "id": "default-user",
+    "name": "User"
+  },
+  "bot": {
+    "id": "m770c7i9lci",
+    "name": "Bot"
+  },
+  "conversation": {
+    "id": "cig68dhad1gh"
+  },
+  "channelId": "emulator",
+  "serviceUrl": "http://localhost:51033"
+}</ConvReference>
+  </Entry>
+  <Entry>
+    <TicketId>TCK1019</TicketId>
+    <ConvReference>{
+  "activityId": "70eg8b91g106",
+  "user": {
+    "id": "default-user",
+    "name": "User"
+  },
+  "bot": {
+    "id": "m770c7i9lci",
+    "name": "Bot"
+  },
+  "conversation": {
+    "id": "cig68dhad1gh"
+  },
+  "channelId": "emulator",
+  "serviceUrl": "http://localhost:51033"
+}</ConvReference>
+  </Entry>
+  <Entry>
+    <TicketId>TCK1020</TicketId>
+    <ConvReference>{
+  "activityId": "40i0bah4emhj",
+  "user": {
+    "id": "default-user",
+    "name": "User"
+  },
+  "bot": {
+    "id": "m770c7i9lci",
+    "name": "Bot"
+  },
+  "conversation": {
+    "id": "6675iac08mc"
+  },
+  "channelId": "emulator",
+  "serviceUrl": "http://localhost:51033"
+}</ConvReference>
+  </Entry>
+  <Entry>
+    <TicketId>TCK1021</TicketId>
+    <ConvReference>{
+  "activityId": "5lg6435nb7ij",
+  "user": {
+    "id": "default-user",
+    "name": "User"
+  },
+  "bot": {
+    "id": "m770c7i9lci",
+    "name": "Bot"
+  },
+  "conversation": {
+    "id": "d8b78fb850b"
+  },
+  "channelId": "emulator",
+  "serviceUrl": "http://localhost:51033"
+}</ConvReference>
+  </Entry>
+  <Entry>
+    <TicketId>TCK1013</TicketId>
+    <ConvReference>{
+  "activityId": "n00eedhdbgcb",
+  "user": {
+    "id": "default-user",
+    "name": "User"
+  },
+  "bot": {
+    "id": "m770c7i9lci",
+    "name": "Bot"
+  },
+  "conversation": {
+    "id": "b7h55biifnaf"
+  },
+  "channelId": "emulator",
+  "serviceUrl": "http://localhost:51033"
+}</ConvReference>
+  </Entry>
+  <Entry>
+    <TicketId>TCK1014</TicketId>
+    <ConvReference>{
+  "activityId": "ccfk669bmb25",
+  "user": {
+    "id": "default-user",
+    "name": "User"
+  },
+  "bot": {
+    "id": "m770c7i9lci",
+    "name": "Bot"
+  },
+  "conversation": {
+    "id": "ime5bclckl6k"
+  },
+  "channelId": "emulator",
+  "serviceUrl": "http://localhost:56800"
+}</ConvReference>
+  </Entry>
+  <Entry>
+    <TicketId>TCK1015</TicketId>
+    <ConvReference>{
+  "activityId": "3c2gec6lfn2",
+  "user": {
+    "id": "default-user",
+    "name": "User"
+  },
+  "bot": {
+    "id": "m770c7i9lci",
+    "name": "Bot"
+  },
+  "conversation": {
+    "id": "en2fi824dm68"
+  },
+  "channelId": "emulator",
+  "serviceUrl": "http://localhost:56800"
+}</ConvReference>
+  </Entry>
+  <Entry>
+    <TicketId>TCK1016</TicketId>
+    <ConvReference>{
+  "activityId": "mdkec26eg83",
+  "user": {
+    "id": "default-user",
+    "name": "User"
+  },
+  "bot": {
+    "id": "m770c7i9lci",
+    "name": "Bot"
+  },
+  "conversation": {
+    "id": "jmhc42gg3cgf"
+  },
+  "channelId": "emulator",
+  "serviceUrl": "http://localhost:64472"
+}</ConvReference>
+  </Entry>
+</Entries>
